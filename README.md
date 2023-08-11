@@ -46,7 +46,7 @@ A real-time messenger clone built with NextJS, Tailwind, Prisma, and MongoDB.
 ### 📫 Let's Connect
 
 <div align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:himanshnegi2001@gmail.com">
     <img src="https://img.icons8.com/fluent/48/000000/new-post.png" alt="Email" width="40" height="40"/>
   </a>
   <a href="https://www.linkedin.com/in/your-linkedin-profile">
