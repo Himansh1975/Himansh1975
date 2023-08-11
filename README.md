@@ -49,7 +49,7 @@ A real-time messenger clone built with NextJS, Tailwind, Prisma, and MongoDB.
   <a href="mailto:himanshnegi2001@gmail.com">
     <img src="https://img.icons8.com/fluent/48/000000/new-post.png" alt="Email" width="40" height="40"/>
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile">
+  <a href="https://www.linkedin.com/in/himansh-negi">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
   </a>
 </div>
