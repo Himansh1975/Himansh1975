@@ -31,13 +31,13 @@ I'm Himansh Negi, a passionate undergraduate student at Sardar Vallabhbhai Natio
 
 #### Algorithm Visualizer
 
-![Algorithm Visualizer](https://via.placeholder.com/600x300)
+![Algorithm Visualizer]
 
 An interactive tool to visualize sorting algorithms using ReactJS. See algorithms come to life!
 
 #### Messenger Clone
 
-![Messenger Clone](https://via.placeholder.com/600x300)
+![Messenger Clone]
 
 A real-time messenger clone built with NextJS, Tailwind, Prisma, and MongoDB.
 
@@ -47,7 +47,7 @@ A real-time messenger clone built with NextJS, Tailwind, Prisma, and MongoDB.
 
 <div align="center">
   <a href="mailto:your.email@example.com">
-    <img src="https://img.icons8.com/dusk/64/000000/new-post.png" alt="Email" width="40" height="40"/>
+    <img src="https://img.icons8.com/fluent/48/000000/new-post.png" alt="Email" width="40" height="40"/>
   </a>
   <a href="https://www.linkedin.com/in/your-linkedin-profile">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
