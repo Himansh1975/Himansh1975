@@ -31,7 +31,8 @@ I'm Himansh Negi, a passionate undergraduate student at Sardar Vallabhbhai Natio
 
 #### Algorithm Visualizer
 
-![Algorithm Visualizer]
+<img width="960" alt="image" src="https://github.com/Himansh1975/Himansh1975/assets/66158724/9543a4b4-2f4e-4efe-9254-f5b5355fdc3b">
+
 
 An interactive tool to visualize sorting algorithms using ReactJS. See algorithms come to life!
 
