@@ -36,12 +36,6 @@ I'm Himansh Negi, a passionate undergraduate student at Sardar Vallabhbhai Natio
 
 An interactive tool to visualize sorting algorithms using ReactJS. See algorithms come to life!
 
-#### Messenger Clone
-
-![Messenger Clone]
-
-A real-time messenger clone built with NextJS, Tailwind, Prisma, and MongoDB.
-
 ---
 
 ### 📫 Let's Connect
