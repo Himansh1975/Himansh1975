@@ -1,10 +1,9 @@
-<div align="center">  
-  # Himansh Negi
-  ### 🚀 Problem Solver | 💡 Full-Stack Innovator | 🎨 Code Artisan
-
+<div align="center">
+  <h1>Himansh Negi</h1>
+  <p>🚀 Problem Solver | 💡 Full-Stack Enthusiast | 🎨 Web Dev Artist</p>
+</div>
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himansh-negi)
   [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himanshnegi2001@gmail.com)
-</div>
 
 ## 👋 Welcome to My Digital Workshop!
 
