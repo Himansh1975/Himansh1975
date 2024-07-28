@@ -1,9 +1,11 @@
 <div align="center">
-  <h1>Himansh Negi</h1>
-  <p>🚀 Problem Solver | 💡 Full-Stack Enthusiast | 🎨 Web Dev Artist</p>
-</div>
+  
+  # Himansh Negi
+  ### 🚀 Problem Solver | 💡 Full-Stack Innovator | 🎨 Code Artisan
+
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himansh-negi)
   [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himanshnegi2001@gmail.com)
+</div>
 
 ## 👋 Welcome to My Digital Workshop!
 
@@ -39,7 +41,7 @@ Hey there! I'm Himansh, a passionate coder and problem-solver pursuing my underg
 
 An interactive ReactJS-based tool that brings sorting algorithms to life. Watch as complex algorithms transform into visual spectacles, making learning both fun and intuitive.
 
-[🔗 Live Demo](himansh1975.github.io/AlgoWiz/) | [💻 Source Code](https://github.com/himansh1975/algowiz)
+[🔗 Live Demo](https://himansh1975.github.io/AlgoWiz/) | [💻 Source Code](https://github.com/himansh1975/algowiz)
 
 ## 📈 GitHub Stats
 
